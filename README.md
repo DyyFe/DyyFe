@@ -203,7 +203,7 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d1030,50:ad1a72,100:1a0f1f&height=120&section=footer"/>
 
-<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
+
 
 <br/>
 
