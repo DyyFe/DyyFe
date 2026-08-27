@@ -123,53 +123,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
-## `<SystemStats />`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF" width="100%"/>
-
-</div>
-
----
-
-<!-- ===== TROPHIES ===== -->
-## `<Trophies />`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-<!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
-## `<ContributionMatrix />`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚙️ A snake animation precisa de uma GitHub Action no seu perfil para ser gerada automaticamente.
-> Guia rápido: crie o repositório especial `SEU_USUARIO/SEU_USUARIO`, adicione o workflow
-> [`Platane/snk`](https://github.com/Platane/snk) em `.github/workflows/snake.yml`, e o SVG acima
-> passará a ser atualizado sozinho a cada contribuição.
-
----
-
 <!-- ===== REDES SOCIAIS ===== -->
 ## `<ConexoesExternas />`
 
