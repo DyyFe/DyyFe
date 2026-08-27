@@ -189,8 +189,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F0FF&style=flat-square&label=Visualizações)
