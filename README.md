@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- ===== BANNER PRINCIPAL COM EFEITO DE BOOT ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CINDY.SYS%20INITIALIZING&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Transformando%20Dados%20em%20Decisões%20de%20Negócio&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f1f,50:ad1a72,100:3d1030&height=220&section=header&text=CINDY.SYS%20INITIALIZING&fontSize=42&fontColor=FF4FA3&animation=fadeIn&fontAlignY=38&desc=Transformando%20Dados%20em%20Decisões%20de%20Negócio&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+Booting+Cindy.exe...;%3E+Loading+Data+Pipelines...;%3E+AWS+Glue+%3A+ONLINE;%3E+Modo+J.A.R.V.I.S+ativado;%3E+Bem-vindo+ao+meu+terminal+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF4FA3&center=true&vCenter=true&width=650&lines=%3E+Booting+Cindy.exe...;%3E+Loading+Data+Pipelines...;%3E+AWS+Glue+%3A+ONLINE;%3E+Modo+J.A.R.V.I.S+ativado;%3E+Bem-vindo+ao+meu+terminal+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e0e29a37-eb0f-4c9d-9737-3d327d2fe74b.gif" width="100%" height="3px"/>
 
@@ -63,11 +63,11 @@ sistema:
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=00F0FF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF4FA3)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00F0FF)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=00F0FF)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00F0FF)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FF4FA3)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=FF4FA3)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FF4FA3)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,19 +103,19 @@ sistema:
 <div align="center">
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=c9d1d9&icon_color=FF4FA3" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=c9d1d9&icon_color=FF4FA3" />
 </a>
 
 <br/>
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=c9d1d9&icon_color=FF4FA3" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=c9d1d9&icon_color=FF4FA3" />
 </a>
 
 </div>
@@ -145,16 +145,16 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=DyyFe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DyyFe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=c9d1d9&ring_color=FF4FA3"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyyFe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyyFe&theme=radical&hide_border=true&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=ffffff&area=true&area_color=FF4FA3" width="100%"/>
 
 </div>
 
@@ -173,6 +173,11 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 </div>
 
+> ⚙️ A snake animation precisa de uma GitHub Action no seu perfil para ser gerada automaticamente.
+> Guia rápido: crie o repositório especial `DyyFe/DyyFe`, adicione o workflow
+> [`Platane/snk`](https://github.com/Platane/snk) em `.github/workflows/snake.yml`, e o SVG acima
+> passará a ser atualizado sozinho a cada contribuição.
+
 ---
 
 <!-- ===== REDES SOCIAIS ===== -->
@@ -181,7 +186,7 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-larissa-cardoso-fernandes-6925a5367)
-[![Portfólio](https://img.shields.io/badge/Portfólio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://cindy-fernandes-ds.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF4FA3?style=for-the-badge&logo=vercel&logoColor=black)](https://cindy-fernandes-ds.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DyyFe)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
@@ -192,12 +197,10 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 <!-- ===== RODAPÉ ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d1030,50:ad1a72,100:1a0f1f&height=120&section=footer"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DyyFe&color=00F0FF&style=flat-square&label=Visualizações)
+![Profile Views](https://komarev.com/ghpvc/?username=DyyFe&color=FF4FA3&style=flat-square&label=Visualizações)
 
 </div>
