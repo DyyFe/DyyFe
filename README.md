@@ -169,11 +169,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 </div>
 
-> ⚙️ A snake animation precisa de uma GitHub Action no seu perfil para ser gerada automaticamente.
-> Guia rápido: crie o repositório especial `DyyFe/DyyFe`, adicione o workflow
-> [`Platane/snk`](https://github.com/Platane/snk) em `.github/workflows/snake.yml`, e o SVG acima
-> passará a ser atualizado sozinho a cada contribuição.
-
 ---
 
 <!-- ===== REDES SOCIAIS ===== -->
