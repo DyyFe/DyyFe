@@ -31,12 +31,13 @@ sistema:
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/041a2f57-6e0e-4a1a-9a8b-6d4e5f5f6a1c.gif" alt="AI hologram"/>
 
-- 💼 Traduzo dados brutos em **relatórios e dashboards que economizam tempo de decisão**
-- 🏗️ Construo **pipelines confiáveis** com AWS Glue, para dados sempre atualizados e sem retrabalho manual
-- 📊 Foco em **Engenharia e Análise de Dados** aplicada a problemas reais de negócio (RH, financeiro, ESG)
-- 🧠 Aplico **IA e automação** para reduzir tarefas repetitivas de análise
-- 🌐 Portfólio completo: **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app)**
-- ⚡ "Dado bonito no gráfico não vale nada se não muda uma decisão. É isso que eu entrego."
+- <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="16" valign="middle"/> Traduzo dados brutos em **relatórios e dashboards que economizam tempo de decisão**
+- <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="16" valign="middle"/> Construo **pipelines confiáveis** com AWS Glue, para dados sempre atualizados e sem retrabalho manual
+- <img src="https://cdn.simpleicons.org/pandas/150458" width="16" valign="middle"/> Foco em **Engenharia e Análise de Dados** aplicada a problemas reais de negócio (RH, financeiro, ESG)
+- <img src="https://cdn.simpleicons.org/openai/412991" width="16" valign="middle"/> Aplico **IA e automação** para reduzir tarefas repetitivas de análise
+- <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16" valign="middle"/> Portfólio completo: **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app)**
+
+> "Dado bonito no gráfico não vale nada se não muda uma decisão. É isso que eu entrego."
 
 <br clear="right"/>
 
@@ -189,6 +190,8 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d1030,50:ad1a72,100:1a0f1f&height=120&section=footer"/>
+
+<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
 
 <br/>
 
