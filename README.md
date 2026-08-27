@@ -118,38 +118,72 @@ Meu foco está em transformar dados dispersos em **pipelines, indicadores, dashb
 <div align="center">
 
 <a href="https://github.com/DyyFe/Dashboard-de-Acompanhamento-de-RH-M-dulo-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3" />
+<img src="https://img.shields.io/badge/📊%20Dashboard%20de%20RH-FF4FA3?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 <a href="https://github.com/DyyFe/ESG-Risk-Model">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3" />
+<img src="https://img.shields.io/badge/🌱%20ESG%20Risk%20Model-FF4FA3?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/DyyFe/Projeto---Inovation-Lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3" />
+<a href="https://github.com/DyyFe/cindy-portfolio">
+<img src="https://img.shields.io/badge/💻%20Cindy%20Portfolio-FF4FA3?style=for-the-badge&labelColor=0D1117" />
 </a>
 
-<a href="https://github.com/DyyFe/cindy-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3" />
+<a href="https://github.com/DyyFe/Projeto---Inovation-Lab">
+<img src="https://img.shields.io/badge/🧪%20Innovation%20Lab-FF4FA3?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 </div>
 
-### 🔎 Alguns dos projetos
+<br>
 
-**📊 Dashboard de Acompanhamento de RH**
-Dashboard desenvolvido para transformar dados de pessoas em indicadores que facilitam o acompanhamento e a análise de informações de RH.
+### 📊 Dashboard de Acompanhamento de RH
 
-**🌱 ESG Risk Model**
-Projeto voltado à análise de indicadores ESG e avaliação de riscos utilizando dados e modelos analíticos.
+Dashboard desenvolvido em **Power BI** para acompanhamento de indicadores de RH, transformando dados de pessoas em informações para análise e tomada de decisão.
 
-**🧪 Innovation Lab**
-Projeto explorando tecnologia e dados para solucionar um problema de negócio através de uma abordagem experimental.
+**Stack:** `Power BI` `Data Analysis` `Business Intelligence`
 
-**💻 Cindy Portfolio**
-Meu portfólio pessoal, reunindo projetos, experiências e soluções desenvolvidas na área de Dados.
+<a href="https://github.com/DyyFe/Dashboard-de-Acompanhamento-de-RH-M-dulo-1">
+→ Ver projeto
+</a>
+
+---
+
+### 🌱 ESG Risk Model
+
+Projeto de análise de dados históricos do mercado financeiro utilizando ações do **S&P 500**, explorando tendências, indicadores e modelos analíticos.
+
+**Stack:** `Python` `Pandas` `Data Analysis` `Machine Learning`
+
+<a href="https://github.com/DyyFe/ESG-Risk-Model">
+→ Ver projeto
+</a>
+
+---
+
+### 💻 Cindy Portfolio
+
+Meu portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, reunindo projetos, tecnologias e informações profissionais.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/DyyFe/cindy-portfolio">
+→ Ver projeto
+</a>
+
+---
+
+### 🧪 Innovation Lab
+
+Projeto desenvolvido no contexto do **Innovation Lab**, explorando tecnologia e soluções para problemas de negócio.
+
+**Stack:** `Data` `Innovation` `Technology`
+
+<a href="https://github.com/DyyFe/Projeto---Inovation-Lab">
+→ Ver projeto
+</a>
 
 ---
 
@@ -170,7 +204,9 @@ Meu portfólio pessoal, reunindo projetos, experiências e soluções desenvolvi
 ╰──────────────────────────────────────────────────────╯
 ```
 
-> `cindy@data-terminal:~$ echo "learning never stops"`
+```bash
+cindy@data-terminal:~$ echo "learning never stops"
+```
 
 **Status:** 🟢 Building • Learning • Improving
 
@@ -180,19 +216,19 @@ Meu portfólio pessoal, reunindo projetos, experiências e soluções desenvolvi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DyyFe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=C9D1D9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DyyFe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=C9D1D9&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyyFe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C9D1D9" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=DyyFe&theme=radical&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" />
+<img src="https://streak-stats.demolab.com/?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3" />
 
 </div>
 
 ---
 
-## `<ContributionMatrix />`
+## `<Activity />`
 
 <div align="center">
 
@@ -202,40 +238,41 @@ Meu portfólio pessoal, reunindo projetos, experiências e soluções desenvolvi
 
 ---
 
-## `<Career />`
+## `<CareerPath />`
 
 ```text
                  CINDY.SYS CAREER PATH
                  =====================
 
-        Ciência da Computação
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   DATA ANALYSIS │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │       BI        │
-        │    Power BI     │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ DATA ENGINEERING│
-        │  Python + SQL   │
-        │      + AWS      │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │  CLOUD DATA     │
-        │   ARCHITECTURE  │
-        └─────────────────┘
+                    Ciência da
+                    Computação
+                        │
+                        ▼
+              ┌─────────────────┐
+              │   DATA ANALYSIS │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │       BI        │
+              │    Power BI     │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ DATA ENGINEERING│
+              │ Python + SQL    │
+              │      + AWS      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   CLOUD DATA    │
+              │   ARCHITECTURE  │
+              └─────────────────┘
 ```
 
-Meu objetivo é evoluir continuamente na interseção entre **Dados, Engenharia e Negócio**, construindo soluções cada vez mais escaláveis e orientadas a decisões.
+Meu objetivo é evoluir continuamente na interseção entre **Dados, Engenharia e Negócio**, construindo soluções cada vez mais escaláveis, automatizadas e orientadas a decisões.
 
 ---
 
