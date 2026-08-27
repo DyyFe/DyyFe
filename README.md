@@ -160,10 +160,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 ---
 
-</div>
-
----
-
 <!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
 ## `<ContributionMatrix />`
 
