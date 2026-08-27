@@ -162,17 +162,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 ---
 
-<!-- ===== TROPHIES ===== -->
-## `<Trophies />`
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=DyyFe&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
 <!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
 ## `<ContributionMatrix />`
 
