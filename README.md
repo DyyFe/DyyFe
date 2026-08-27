@@ -56,8 +56,6 @@ sistema:
 
 </div>
 
-> 💡 Já apliquei essa abordagem em projetos como acompanhamento de indicadores de RH (Power BI) e análise de risco ESG com dados do mercado financeiro (Python) — ambos disponíveis nos projetos abaixo.
-
 ---
 
 <!-- ===== TECH STACK ===== -->
@@ -121,8 +119,6 @@ sistema:
 </a>
 
 </div>
-
-> 💡 Os cards acima já apontam para seus repositórios reais. Se quiser destacar outro projeto, é só trocar o parâmetro `repo=` no link da imagem.
 
 ---
 
