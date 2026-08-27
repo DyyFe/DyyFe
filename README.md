@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== BANNER PRINCIPAL COM EFEITO DE BOOT ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CINDY.SYS%20INITIALIZING&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20AI-Powered%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CINDY.SYS%20INITIALIZING&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Transformando%20Dados%20em%20Decisões%20de%20Negócio&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -19,24 +19,44 @@
 sistema:
   nome: "Cindy Fernandes"
   cargo: "Data Engineer / Analista de Dados"
-  status: "🟢 online"
+  status: "🟢 disponível para novos projetos"
   stack_principal: "AWS Glue"
   localizacao: "Brasil"
   missao: >
-    Transformar dados brutos em decisões inteligentes,
-    construindo pipelines escaláveis e sistemas orientados a dados.
+    Ajudar empresas a tomar decisões mais rápidas e mais seguras,
+    transformando dados brutos e dispersos em pipelines confiáveis
+    e dashboards que qualquer área do negócio consegue entender.
   portfolio: "https://cindy-fernandes-ds.netlify.app"
 ```
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/041a2f57-6e0e-4a1a-9a8b-6d4e5f5f6a1c.gif" alt="AI hologram"/>
 
-- 🔭 Atualmente aprofundando conhecimento em **AWS Glue** e pipelines de dados na nuvem
-- 📊 Foco em **Engenharia e Análise de Dados**
-- 🧠 Interessada em **IA aplicada a dados**
-- 🌐 Portfólio: **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app)**
-- ⚡ "Dados sem contexto são apenas ruído. Meu trabalho é dar sentido a eles."
+- 💼 Traduzo dados brutos em **relatórios e dashboards que economizam tempo de decisão**
+- 🏗️ Construo **pipelines confiáveis** com AWS Glue, para dados sempre atualizados e sem retrabalho manual
+- 📊 Foco em **Engenharia e Análise de Dados** aplicada a problemas reais de negócio (RH, financeiro, ESG)
+- 🧠 Aplico **IA e automação** para reduzir tarefas repetitivas de análise
+- 🌐 Portfólio completo: **[cindy-fernandes-ds.netlify.app](https://cindy-fernandes-ds.netlify.app)**
+- ⚡ "Dado bonito no gráfico não vale nada se não muda uma decisão. É isso que eu entrego."
 
 <br clear="right"/>
+
+---
+
+<!-- ===== VALOR PARA O NEGÓCIO ===== -->
+## `<ValorQueEntrego />`
+
+<div align="center">
+
+| 🎯 Dor comum da empresa | ⚙️ O que eu faço | 📈 Resultado |
+|:---|:---|:---|
+| Dados espalhados em várias planilhas e sistemas | Pipelines automatizados com **AWS Glue** | Menos retrabalho manual, dados sempre atualizados |
+| Decisões demoradas por falta de visão clara | Dashboards interativos em **Power BI** | Decisões mais rápidas, baseadas em dados reais |
+| Times de RH/financeiro sem indicadores confiáveis | Modelagem e tratamento de dados em **Python/SQL** | Indicadores confiáveis para acompanhar metas |
+| Análises repetitivas tomando tempo do time | Automação de relatórios recorrentes | Time livre para focar em decisões, não em planilhas |
+
+</div>
+
+> 💡 Já apliquei essa abordagem em projetos como acompanhamento de indicadores de RH (Power BI) e análise de risco ESG com dados do mercado financeiro (Python) — ambos disponíveis nos projetos abaixo.
 
 ---
 
@@ -117,6 +137,7 @@ cindy@data-terminal:~$ cat objetivos_2026.txt
 [■■■■■■■■■■□□□□□□□□□□] 50%  Explorar IA aplicada a dados
 [■■■■■■■■□□□□□□□□□□□□] 40%  Certificação AWS Data Engineer
 [■■■■■■□□□□□□□□□□□□□□] 30%  Construir portfólio de projetos open source
+[■■■■□□□□□□□□□□□□□□□□] 20%  Fechar meu primeiro projeto freelance/CLT em dados
 
 cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 ```
@@ -142,13 +163,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 </div>
 
 ---
-
-<!-- ===== TROPHIES ===== -->
-## `<Trophies />`
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=DyyFe&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
