@@ -85,24 +85,24 @@ sistema:
 <div align="center">
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 
 <br/>
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_3&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_4&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 
 </div>
 
-> 💡 Troque `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados reais do GitHub para os cards carregarem automaticamente.
+> 💡 Os cards acima já apontam para seus repositórios reais. Se quiser destacar outro projeto, é só trocar o parâmetro `repo=` no link da imagem.
 
 ---
 
@@ -123,14 +123,61 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 ---
 
+<!-- ===== GITHUB STATS ===== -->
+## `<SystemStats />`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DyyFe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DyyFe&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&area_color=00F0FF" width="100%"/>
+
+</div>
+
+---
+
+<!-- ===== TROPHIES ===== -->
+## `<Trophies />`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DyyFe&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
+<!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
+## `<ContributionMatrix />`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DyyFe/DyyFe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ A snake animation precisa de uma GitHub Action no seu perfil para ser gerada automaticamente.
+> Guia rápido: crie o repositório especial `DyyFe/DyyFe`, adicione o workflow
+> [`Platane/snk`](https://github.com/Platane/snk) em `.github/workflows/snake.yml`, e o SVG acima
+> passará a ser atualizado sozinho a cada contribuição.
+
+---
+
 <!-- ===== REDES SOCIAIS ===== -->
 ## `<ConexoesExternas />`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-larissa-cardoso-fernandes-6925a5367)
 [![Portfólio](https://img.shields.io/badge/Portfólio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://cindy-fernandes-ds.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DyyFe)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
@@ -142,8 +189,10 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
+<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
+
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F0FF&style=flat-square&label=Visualizações)
+![Profile Views](https://komarev.com/ghpvc/?username=DyyFe&color=00F0FF&style=flat-square&label=Visualizações)
 
 </div>
