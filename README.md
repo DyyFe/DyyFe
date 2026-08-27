@@ -85,19 +85,19 @@ sistema:
 <div align="center">
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Dashboard-de-Acompanhamento-de-RH-M-dulo-1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=cindy-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 
 <br/>
 
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=ESG-Risk-Model&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 <a href="https://cindy-fernandes-ds.netlify.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=DyyFe&repo=Projeto---Inovation-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" />
 </a>
 
 </div>
@@ -128,12 +128,12 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DyyFe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DyyFe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DyyFe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=DyyFe&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
 
 <br/>
 
@@ -148,7 +148,7 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DyyFe&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=DyyFe&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
