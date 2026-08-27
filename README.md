@@ -57,6 +57,7 @@ sistema:
 
 </div>
 
+
 ---
 
 <!-- ===== TECH STACK ===== -->
@@ -121,6 +122,7 @@ sistema:
 
 </div>
 
+
 ---
 
 <!-- ===== OBJETIVOS ATUAIS - ESTILO TERMINAL ===== -->
@@ -161,6 +163,17 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 
 ---
 
+<!-- ===== TROPHIES ===== -->
+## `<Trophies />`
+
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=DyyFe&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+---
+
 <!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
 ## `<ContributionMatrix />`
 
@@ -190,8 +203,6 @@ cindy@data-terminal:~$ echo "Status: aprendendo e evoluindo todos os dias 🚀"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d1030,50:ad1a72,100:1a0f1f&height=120&section=footer"/>
-
-<sub>⚡ Sistema operando em plena capacidade — obrigada pela visita, humano. ⚡</sub>
 
 <br/>
 
